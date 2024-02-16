@@ -32,4 +32,4 @@ Implement user authentication and authorization to ensure that only authenticate
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/dhirajkumar0/depo24-chatApp-backend
